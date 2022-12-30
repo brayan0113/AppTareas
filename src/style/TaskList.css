@@ -1,0 +1,6 @@
+.containerListTask{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-block-start: 15px;
+}
